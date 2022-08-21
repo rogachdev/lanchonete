@@ -15,7 +15,7 @@
   "author": "Rogério",
   "license": "ISC",
   "dependencies": {
-    "@wppconnect-team/wppconnect": "",
+    "@wppconnect-team/wppconnect": "^1.16.1",
     "axios": "^0.21.4",
     "cjs": "^0.0.11",
     "cors": "^2.8.5",
