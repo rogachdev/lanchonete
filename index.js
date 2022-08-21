@@ -16,8 +16,6 @@ const myTokenStore = new Whatsapp.tokenStore.FileTokenStore({
   path: "./tokens",
 });
 
-// FIXME: INICIO DOS COMENTÁRIOS DO CÓDIGO
-
 // TODO: NOME DO PROJETO PRA GERAR A CHAVE.JSON
 const _project = "lanchonete-app";
 
